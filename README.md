@@ -31,6 +31,6 @@ alx_travel_app/
 │
 ├── alx_travel_app/        # Django project settings
 ├── listings/              # Core app: models, views, serializers
-│   └── management/        # Custom command: seed.py
+│   └── management/command/seed.py       # Custom command: seed.py
 ├── manage.py
 └── README.md
