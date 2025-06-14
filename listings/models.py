@@ -37,4 +37,6 @@ class Review(models.Model):
 
     def __str__(self):
         return f'Review for {self.listing.title} by {self.user_name} Average Rating: {self.average_rating}'
+
+
 # Create your models here.
