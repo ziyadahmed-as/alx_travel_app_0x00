@@ -1,7 +1,5 @@
 from rest_framework import serializers
 from .models import Listing, Booking, Review
-from rest_framework import serializers
-from .models import Listing, Booking, Review
 
 # listing serializer model
 class ListingSerializer(serializers.ModelSerializer):

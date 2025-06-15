@@ -1,4 +1,4 @@
-ALX Travel App 0x01
+ALX Travel App 0x00
 This Django REST API provides endpoints for managing travel listings and bookings.
 
 Endpoints
